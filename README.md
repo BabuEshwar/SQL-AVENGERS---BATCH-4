@@ -221,7 +221,11 @@ This project demonstrates a **production-ready data pipeline** with:
 
 ## 👤 Author
 
-**Madhavan Dodda**
+Ravikanti Babu Eshwar
+Dodda Madhavan
+Chavidi Kushwanthu
+Seelam Sandeep Kumar Reddy
+Putta Pradeep Kumar
 
 ---
 
